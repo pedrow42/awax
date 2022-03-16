@@ -11,6 +11,7 @@ body{
 html {
     /* a cada 1rem será considera 10px */
     font-size: 62.5%;
+    scroll-behavior: smooth;
   }
 .container{
     max-width: 114rem;
